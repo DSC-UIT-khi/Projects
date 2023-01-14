@@ -1,0 +1,48 @@
+body{
+    background-color: rgb(145, 148, 148);
+}
+.main{
+    width: 250px;
+    height: 320px;
+    margin:200px auto;
+    border: 2px solid rgba(66, 245, 191, 0.932);
+    background-color: rgba(144, 240, 195, 0.726);
+    box-shadow:  5px 10px 20px black;
+    ;
+}
+
+.result{
+    width: 99%;
+    color: black;
+    height: 25px;
+}
+
+
+.clearbutton{
+    float: right;
+    width: 50px;
+    margin:30px 10px 0px 0px;
+    background-color: rgba(113, 158, 243, 0.555);
+    height: 30px;
+
+
+}
+
+.btn-div{
+margin-top: 70px;
+}
+
+.btn{
+    margin: 5px;
+    margin-top: 20px;
+    width: 48px;
+    background-color: rgba(113, 158, 243, 0.555);
+    height: 30px;
+}
+.endbtn{
+    width: 120px;
+    margin-top: 20px;
+    background-color: rgba(113, 158, 243, 0.555);
+    height: 30px;
+
+}
