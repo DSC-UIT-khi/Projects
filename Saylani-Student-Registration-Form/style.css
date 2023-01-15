@@ -1,0 +1,47 @@
+#img-center{
+    text-align: center;
+}
+
+#form-center{
+    background-color: rgba(114, 79, 197, 0.719);
+    line-height: 45px;
+    margin: 20px 20px 20px 20px;
+    padding: 20px 20px 20px 20px;
+    border: 3px solid rgb(92, 9, 139);
+}
+
+.center{
+    display: inline-block;
+    width: 240px;
+   
+}
+
+
+.table-center{
+    display: inline-block;
+    width: 240px;
+    margin-left: 240px;
+   
+}
+
+.table-heading-center{
+    position: absolute;
+}
+
+#h1size{
+    font-size: 50px;
+    color: green;
+}
+
+#h3size{
+    font-size: 30px;
+    color: purple;
+}
+
+.submitbutton{
+    margin-left: 500px;
+}
+#resetbutton{
+    margin-left: 600px;
+    position: absolute;
+}
